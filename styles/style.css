@@ -126,7 +126,7 @@ header nav a:hover{
 }
 .hero-left{
     /* width: 50%; */
-    margin-left: 10px;
+    margin-left: 30px;
 }
 .hero-right{
     /* width: 50%; */
@@ -140,9 +140,8 @@ header nav a:hover{
 .hero-general{
     position: relative;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    gap: 500px;
 }
 .laptop{
     position: absolute;
