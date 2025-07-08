@@ -142,7 +142,7 @@ header nav a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 470px;
+    gap: 500px;
 }
 .laptop{
     position: absolute;
